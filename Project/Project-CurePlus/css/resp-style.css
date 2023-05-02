@@ -1,0 +1,131 @@
+@media (max-width:1199.5px) {
+  .card {
+    padding: 2.5rem 1.875rem;
+  }
+
+
+  .header-wrapper .navbar-nav .nav-link {
+    font-size: 1rem;
+  }
+
+
+
+}
+
+
+
+
+@media (max-width:991px) {
+  .wrapper {
+    padding: 3.125rem 0;
+  }
+
+  .main-btn {
+    font-size: .875rem;
+  }
+
+  h1 {
+    font-size: 2.8125rem;
+    margin-bottom: .625rem;
+  }
+
+  h2 {
+    font-size: 1.875rem;
+  }
+
+  h3 {
+    font-size: 1.5625rem;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+  }
+
+  h5 {
+    font-size: 1.125rem;
+  }
+
+  p {
+    font-size: .875rem;
+    line-height: 1.35rem;
+  }
+
+  .card {
+    padding: 1.875rem 1rem;
+  }
+
+  .header-scrolled {
+    height: auto;
+  }
+
+  .header-wrapper .menu-navbar-nav {
+    text-align: center;
+  }
+
+  .header-wrapper .nav-item .nav-link {
+    margin-top: .9375rem;
+  }
+
+  .banner_wrapper p {
+    max-width: 100%;
+  }
+}
+
+
+
+@media (max-width:767px) {
+  .main-btn {
+    font-size: .875rem;
+  }
+
+  h1 {
+    font-size: 2, 5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  h5 {
+    font-size: 1.25rem;
+  }
+
+
+
+
+
+
+
+
+  .head_text {
+
+    text-align: center;
+  }
+
+
+
+  .top-right-sec img {
+    height: 300px;
+    width: 450px;
+  }
+
+  .banner_wrapper {
+    height: 700px;
+  }
+
+
+
+
+  .appointment_wrapper input {
+    text-align: center;
+    margin-right: 700px;
+  }
+
+}
+
+
+
+
+
+
+
+
+/* resp */
+@media (max-width:360px) {}
